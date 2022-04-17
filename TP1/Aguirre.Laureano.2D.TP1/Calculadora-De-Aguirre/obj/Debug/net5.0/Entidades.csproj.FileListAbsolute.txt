@@ -1,0 +1,16 @@
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.exe
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
+C:\Users\Lau\source\repos\Calculadora-Aguirre\Calculadora-De-Aguirre\obj\Debug\net5.0\ref\Entidades.dll
